@@ -9,4 +9,4 @@
 
 ### Prroject 3:Checkout Form
         Technology used: HTML CSS
-        ![alt tag] ()
+        ![alt tag] (https://raw.githubusercontent.com/jiuce/Web-Development/master/images/checkout_form.png)
